@@ -2,4 +2,4 @@
 
 Démo de push projet sur GitHub
 
-Salutation aux membres du jury
+Mes salutations aux membres du jury
